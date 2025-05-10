@@ -42,3 +42,12 @@ footer {
     text-align: center;
     padding: 10px;
 }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('sfondo-taverna.jpg'); /* Sostituisci con il tuo file */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
